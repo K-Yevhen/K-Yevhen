@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yevhen Kuts</h1>
 <h3 align="center">A passionate backend developer from Ukraine</h3>
-<img align="right" alt="Coding" width="255" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_400.gifv">
+<img align="right" alt="Coding" width="255" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_400.gif">
 
 - 🔭 I’m currently working on **Genpact**
 
