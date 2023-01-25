@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Genpact**
 
-- 🌱 I’m currently learning **Data Science, Django and trying to understand Machine Learning.**
+- 🌱 I’m currently learning **Django, Data Science and Machine Learning.**
 
 - 💬 Ask me about **Python**
 
