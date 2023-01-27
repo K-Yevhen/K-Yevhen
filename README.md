@@ -4,14 +4,18 @@
 
 - 🔭 I’m currently working on **Genpact**
 
-- 🌱 I’m currently learning **Python, Django, Data Science and Machine Learning.**
+- 🌱 I’m currently learning **Python, Django, Data Science and Machine Learning & AI 🌱.**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Whatever you want**
 
-- 📫 How to reach me **- https://www.linkedin.com/in/yevhen-kuts-73b5a2210/.**
-- 📫 How to reach me **- kuts.yevhen@gmail.com.**
+- 🧳 I have a passion for traveling ✈️ and exploring 🌎 everything on my wa. 
 
-- ⚡ Fun fact **I love a rock festivals**
+- ⛩️ I am interesting in Japanese Culture/History and Korean Cuisine🥢.
+
+- 📫 How to reach me **- https://www.linkedin.com/in/yevhen-kuts-73b5a2210/ **
+- 📫 How to reach me **- kuts.yevhen@gmail.com **
+
+- ⚡ Fun fact **I love a rock festivals and have been as well as volunteer inside the festivals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
