@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python, Django, Data Science and Machine Learning & AI.**
 
-- 💬 Ask me about **Whatever you want**
+- 💬 Ask me about **Whatever you want.**
 
-- 🧳 I have a passion for traveling ✈️ and exploring 🌎 everything on my wa. 
+- 🧳 I have a passion for traveling ✈️ and exploring 🌎 everything on my way. 
 
 - ⛩️ I am interesting in Japanese Culture/History and Korean Cuisine🥢.
 
