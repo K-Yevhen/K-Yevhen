@@ -9,6 +9,7 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **- https://www.linkedin.com/in/yevhen-kuts-73b5a2210/.**
+- 📫 How to reach me **- kuts.yevhen@gmail.com.**
 
 - ⚡ Fun fact **I love a rock festivals**
 
